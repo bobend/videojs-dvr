@@ -35,3 +35,4 @@ test/dist/
 
 *.iml
 package-lock.json
+.eslintcache
